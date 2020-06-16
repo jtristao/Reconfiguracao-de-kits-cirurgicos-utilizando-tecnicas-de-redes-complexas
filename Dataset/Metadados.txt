@@ -1,0 +1,31 @@
+Codigo, Significado
+CD_CONVENIO, Codigo do convenio
+NM_CONVENIO, Nome do convenio
+CD_AVISO_CIRURGIA, Codigo unico da cirurgia (Identifica unicamente um conjunto de cirurgias)
+DT_REALIZACAO, Data de realizacao da cirurgia
+CD_CIRURGIA_AVISO, Codigo subcirurgia (Identifica as subcirurgias realizadas)
+CD_CIRURGIA, Codigo da cirurgia
+DS_CIRURGIA, Descricao da cirurgia
+SN_PRINCIPAL, Nao definido
+CD_CID, Nao definido
+DS_CID, Nao definido
+CD_ESPECIALID, Codigo da especialidade
+DS_ESPECIALID, Descricao da especialidade
+CD_PRODUTO, Codigo do produto
+DS_PRODUTO, Descricao do produto
+CD_ESPECIE, Codigo da especie do produto
+DS_ESPECIE, Descricao da especie do produto
+CD_CLASSE, Codigo da classe do produto
+DS_CLASSE, Descricao da classe do produto
+CD_SUB_CLA, Codigo da subclasse do produto 
+DS_SUB_CLA, Descricao da subclasse do produto
+DS_UNIDADE_REFERENCIA, Unidade de referencia
+CD_PRODUTO_MESTRE, Nao definido
+DS_PRODUTO_MESTRE, Nao definido
+CD_ESPECIE_MESTE, Nao definido
+DS_ESPECIE_MESTRE, Nao definido
+CD_CLASSE_MESTRE, Nao definido
+DS_CLASSE_MESTRE, Nao definido
+CD_SUB_CLA_MESTRE, Nao definido
+DS_SUB_CLA_MESTRE, Nao definido
+QT_MOVIMENTACAO, Quantidade utilizada
