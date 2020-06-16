@@ -11,4 +11,5 @@ Dataset/base_gasto_de_sala v2.csv
 Old_Material/base_gasto_de_sala v2.csv
 Old_Material/base_gasto_de_sala_v2.1.csv
 
-#Materia
+#Notebook
+.ipynb_checkpoints/*
